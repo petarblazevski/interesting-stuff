@@ -14,3 +14,9 @@
 
 ### Local development
 * [ngrok.com](https://ngrok.com/) - expose a web server running on your local machine to the internet
+
+### Security
+* [Website Vulnerability Scanner](https://pentest-tools.com/website-vulnerability-scanning/website-scanner) - scan your website for vulnerability
+
+### Stock Photos
+* [Pexels](https://www.pexels.com/) - free stock photos and videos
