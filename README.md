@@ -23,3 +23,8 @@
 
 ### Backend
 * [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management tool
+
+### React
+#### Forms
+* [Formik](https://formik.org/) - Easy to use API for creating forms
+* [React Hook Form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
