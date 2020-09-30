@@ -28,3 +28,8 @@
 #### Forms
 * [Formik](https://formik.org/) - Easy to use API for creating forms
 * [React Hook Form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
+
+
+### Icons
+* [Orion Icon Library](https://orioniconlibrary.com/) - Free SVG Icons
+* [Heroicons](https://heroicons.dev/) - a set of free SVG icons
