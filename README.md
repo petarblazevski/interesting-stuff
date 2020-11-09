@@ -36,3 +36,6 @@
 
 ### Validation
 * [Bueno](https://github.com/philipnilsson/bueno) - a tiny composable validation library
+
+## Microservices
+* [Zipkin](https://zipkin.io/) - distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in service architectures.
