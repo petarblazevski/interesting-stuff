@@ -29,6 +29,8 @@
 * [Formik](https://formik.org/) - Easy to use API for creating forms
 * [React Hook Form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
 
+### Angular
+* [rx-query](https://github.com/timdeschryver/rx-query) - similar to react-query, but for Angular
 
 ### Icons
 * [Orion Icon Library](https://orioniconlibrary.com/) - Free SVG Icons
@@ -37,9 +39,9 @@
 ### Validation
 * [Bueno](https://github.com/philipnilsson/bueno) - a tiny composable validation library
 
-## Microservices
+### Microservices
 * [Zipkin](https://zipkin.io/) - distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in service architectures.
 
-## Docker
-### Linting
+### Docker
+#### Linting
 * [Hadolint](https://github.com/hadolint/hadolint) - a smarter Dockerfile linter that helps you build best practice Docker images
