@@ -7,6 +7,7 @@
 * [`dust`](https://github.com/bootandy/dust) - better disk usage tool, replacement for `du`
 * [`ytop`](https://github.com/cjbassi/ytop) - graphical replacement for `top`
 * [`npm-check`](https://www.npmjs.com/package/npm-check) - Check for outdated, incorrect, and unused dependencies.
+* [`npkill`](https://www.npmjs.com/package/npkill) - Easily find and remove old and heavy node_modules folders ✨
 
 
 ### API
