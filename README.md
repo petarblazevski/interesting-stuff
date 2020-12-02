@@ -6,6 +6,7 @@
 * [`procs`](https://github.com/dalance/procs) - replacement for `ps`
 * [`dust`](https://github.com/bootandy/dust) - better disk usage tool, replacement for `du`
 * [`ytop`](https://github.com/cjbassi/ytop) - graphical replacement for `top`
+* [`npm-check`](https://www.npmjs.com/package/npm-check) - Check for outdated, incorrect, and unused dependencies.
 
 
 ### API
