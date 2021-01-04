@@ -32,6 +32,9 @@
 * [Formik](https://formik.org/) - Easy to use API for creating forms
 * [React Hook Form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
 
+#### Drag & Drop
+* [dnd kit](https://dndkit.com/) - A lightweight, performant, accessible and extensible drag & drop toolkit for React
+
 ### Angular
 * [rx-query](https://github.com/timdeschryver/rx-query) - similar to react-query, but for Angular
 
