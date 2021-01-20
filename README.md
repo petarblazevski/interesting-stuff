@@ -25,7 +25,11 @@
 * [Pexels](https://www.pexels.com/) - free stock photos and videos
 
 ### Backend
+#### Java
 * [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management tool
+
+#### Node
+* [@nartc/automapper](https://automapper.netlify.app/) - An object-to-object automapper written in Typescript
 
 ### React
 #### Forms
