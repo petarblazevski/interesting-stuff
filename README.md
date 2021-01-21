@@ -45,6 +45,7 @@
 ### Icons
 * [Orion Icon Library](https://orioniconlibrary.com/) - Free SVG Icons
 * [Heroicons](https://heroicons.dev/) - a set of free SVG icons
+* [Flagpack](https://www.flagpack.xyz/) - 260+ open source flag icons
 
 ### Validation
 * [Bueno](https://github.com/philipnilsson/bueno) - a tiny composable validation library
