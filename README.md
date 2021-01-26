@@ -39,6 +39,10 @@
 #### Drag & Drop
 * [dnd kit](https://dndkit.com/) - A lightweight, performant, accessible and extensible drag & drop toolkit for React
 
+#### Usefull libraries
+* [@tailwind/headless](https://github.com/tailwindlabs/headlessui/tree/develop/packages/%40headlessui-react) - A set of completely unstyled, fully accessible UI components for React, designed to integrate beautifully with Tailwind CSS.
+
+
 ### Angular
 * [rx-query](https://github.com/timdeschryver/rx-query) - similar to react-query, but for Angular
 
