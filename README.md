@@ -46,7 +46,7 @@
 #### Dropdown
 * [react-select](https://react-select.com/home) - A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete, async and creatable support
 
-#### Usefull libraries
+#### Useful libraries
 * [@tailwind/headless](https://github.com/tailwindlabs/headlessui/tree/develop/packages/%40headlessui-react) - A set of completely unstyled, fully accessible UI components for React, designed to integrate beautifully with Tailwind CSS.
 * [React Skeleton Loader](https://github.com/henrykuzmick/react-skeleton-loader) - custom animated skeletons for loading states
 
