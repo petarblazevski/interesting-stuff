@@ -53,6 +53,9 @@
 #### UI
 * [twin.micro](https://github.com/ben-rogerson/twin.macro) - Twin blends the magic of Tailwind with the flexibility of css-in-js
 
+#### Editors
+* [react-editor-js](https://github.com/Jungwoo-An/react-editor-js) - The unofficial editor.js for React
+
 ### Angular
 * [rx-query](https://github.com/timdeschryver/rx-query) - similar to react-query, but for Angular
 
