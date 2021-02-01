@@ -40,6 +40,9 @@
 * [Formik](https://formik.org/) - Easy to use API for creating forms
 * [React Hook Form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
 
+#### Redux
+* [Redux-Observable](https://redux-observable.js.org/) - RxJS-based middleware for Redux. Compose and cancel async actions to create side effects and more.
+
 #### Drag & Drop
 * [dnd kit](https://dndkit.com/) - A lightweight, performant, accessible and extensible drag & drop toolkit for React
 
