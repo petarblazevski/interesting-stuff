@@ -10,19 +10,28 @@
 * [`npm-check`](https://www.npmjs.com/package/npm-check) - Check for outdated, incorrect, and unused dependencies.
 * [`npkill`](https://www.npmjs.com/package/npkill) - Easily find and remove old and heavy node_modules folders ✨
 
+---
 
 ### API
 * [stoplight.io](stoplight.io) - API documentation tool with ability to design, mock and test API endpoints
 * [designer.mocky.io](https://designer.mocky.io/) - Free API mocking tool
 
+---
+
 ### Local development
 * [ngrok.com](https://ngrok.com/) - expose a web server running on your local machine to the internet
+
+---
 
 ### Security
 * [Website Vulnerability Scanner](https://pentest-tools.com/website-vulnerability-scanning/website-scanner) - scan your website for vulnerability
 
+---
+
 ### Stock Photos
 * [Pexels](https://www.pexels.com/) - free stock photos and videos
+
+---
 
 ### Backend
 #### Java
@@ -32,10 +41,13 @@
 * [@automapper/core](https://automapperts.netlify.app/) - An object-to-object automapper written in Typescript
 * [Commander.js](https://github.com/tj/commander.js) - The complete solution for node.js command-line interfaces.
 
+---
 
 ### Javascript
 #### CSS
 * [classNames](https://github.com/JedWatson/classnames) - A simple JavaScript utility for conditionally joining classNames together.
+
+---
 
 ### React
 #### Forms
@@ -61,8 +73,12 @@
 #### Editors
 * [react-editor-js](https://github.com/Jungwoo-An/react-editor-js) - The unofficial editor.js for React
 
+---
+
 ### Angular
 * [rx-query](https://github.com/timdeschryver/rx-query) - similar to react-query, but for Angular
+
+---
 
 ### Icons
 * [Orion Icon Library](https://orioniconlibrary.com/) - Free SVG Icons
@@ -70,14 +86,22 @@
 * [Flagpack](https://www.flagpack.xyz/) - 260+ open source flag icons
 * [Feather Icons](https://feathericons.com/) - 280+ open source icons
 
+---
+
 ### Validation
 * [Bueno](https://github.com/philipnilsson/bueno) - a tiny composable validation library
+
+---
 
 ### Testing
 * [MSW](https://mswjs.io/) - API mocking of the next generation
 
+---
+
 ### Microservices
 * [Zipkin](https://zipkin.io/) - distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in service architectures.
+
+---
 
 ### Docker
 #### Linting
