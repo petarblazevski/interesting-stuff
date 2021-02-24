@@ -50,6 +50,8 @@
 ---
 
 ### React
+* [BlitzJS](https://blitzjs.com/) - A fullstack React framework, build on Next.js
+
 #### Forms
 * [Formik](https://formik.org/) - Easy to use API for creating forms
 * [React Hook Form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
