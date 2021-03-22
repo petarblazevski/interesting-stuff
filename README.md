@@ -9,6 +9,7 @@
 * [`btm`](https://github.com/ClementTsang/bottom) - an alternative to `ytop`
 * [`npm-check`](https://www.npmjs.com/package/npm-check) - Check for outdated, incorrect, and unused dependencies.
 * [`npkill`](https://www.npmjs.com/package/npkill) - Easily find and remove old and heavy node_modules folders ✨
+* [`grex`](https://github.com/pemistahl/grex) - simplify the often complicated and tedious task of creating regular expressions
 
 ---
 
