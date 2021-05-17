@@ -46,6 +46,11 @@
 
 ---
 
+### Database
+*[DBDiagram](https://dbdiagram.io/home) - A free, simple tool to draw ER diagrams by just writing code.
+
+---
+
 ### Javascript
 #### CSS
 * [classNames](https://github.com/JedWatson/classnames) - A simple JavaScript utility for conditionally joining classNames together.
