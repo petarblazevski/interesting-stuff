@@ -47,7 +47,7 @@
 ---
 
 ### Database
-*[DBDiagram](https://dbdiagram.io/home) - A free, simple tool to draw ER diagrams by just writing code.
+* [DBDiagram](https://dbdiagram.io/home) - A free, simple tool to draw ER diagrams by just writing code.
 
 ---
 
