@@ -52,6 +52,10 @@
 ---
 
 ### Javascript
+
+* [Numeral.js](http://numeraljs.com/) - A javascript library for formatting and manipulating numbers.
+
+
 #### CSS
 * [classNames](https://github.com/JedWatson/classnames) - A simple JavaScript utility for conditionally joining classNames together.
 
