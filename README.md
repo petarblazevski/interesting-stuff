@@ -51,6 +51,11 @@
 
 ---
 
+### GraphQL
+* [KeystoneJS](https://next.keystonejs.com/) - powerful headless content management system
+
+---
+
 ### Javascript
 
 * [Numeral.js](http://numeraljs.com/) - A javascript library for formatting and manipulating numbers.
