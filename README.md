@@ -96,6 +96,7 @@
 
 ### Angular
 * [rx-query](https://github.com/timdeschryver/rx-query) - similar to react-query, but for Angular
+* [NGRX Slice](https://ngrx-slice.netlify.app/) - a plugin that intends to provide the same functionalities that Redux Toolkit createSlice provides. It is meant to be opinionated 
 
 ---
 
