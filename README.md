@@ -59,6 +59,7 @@
 ### Javascript
 
 * [Numeral.js](http://numeraljs.com/) - A javascript library for formatting and manipulating numbers.
+* [DineroJS](https://v2.dinerojs.com/docs/getting-started/quick-start) - create, calculate, and format money safely in JavaScript and TypeScript
 
 
 #### CSS
