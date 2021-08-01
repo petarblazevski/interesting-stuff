@@ -69,6 +69,7 @@
 ### React
 * [BlitzJS](https://blitzjs.com/) - A fullstack React framework, build on Next.js
 * [React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) - A React implementation of Spectrum, Adobe’s design system.
+* [Plate][https://plate.udecode.io/] - Rich text editor plugin system for Slate & React
 
 #### Forms
 * [Formik](https://formik.org/) - Easy to use API for creating forms
