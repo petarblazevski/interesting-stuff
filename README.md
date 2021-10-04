@@ -114,6 +114,7 @@
 * [Flagpack](https://www.flagpack.xyz/) - 260+ open source flag icons
 * [Feather Icons](https://feathericons.com/) - 280+ open source icons
 * [SVG Repo](https://www.svgrepo.com/) - Browse 300.000+ SVG Vectors and Icons
+* [Iconic](https://iconic.app/) - Free, “do wtf you want with” pixel-perfect icons
 
 ---
 
