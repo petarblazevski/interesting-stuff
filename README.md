@@ -17,6 +17,8 @@
 * [stoplight.io](stoplight.io) - API documentation tool with ability to design, mock and test API endpoints
 * [designer.mocky.io](https://designer.mocky.io/) - Free API mocking tool
 * [Restapify](https://restapify.vercel.app/) - Quickly and easily deploy a mocked REST API
+* [tRPC](https://github.com/trpc/trpc) - End-to-end typesafe APIs made easy
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Postman Alternative
 
 ---
 
@@ -36,6 +38,9 @@
 ---
 
 ### Backend
+* [Zinc](https://github.com/prabhatsharma/zinc) - a search engine that does full text indexing
+* [Meilisearch](https://github.com/meilisearch/meilisearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+
 #### Java
 * [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management tool
 
@@ -56,10 +61,16 @@
 
 ---
 
+### Authentication
+
+* [SuperTokens](https://github.com/supertokens/supertokens-core) - Open-Source auth provider
+
 ### Javascript
 
 * [Numeral.js](http://numeraljs.com/) - A javascript library for formatting and manipulating numbers.
 * [DineroJS](https://v2.dinerojs.com/docs/getting-started/quick-start) - create, calculate, and format money safely in JavaScript and TypeScript
+* [Partytown](https://github.com/BuilderIO/partytown) - a lazy-loaded library to help relocate resource intensive scripts into a web worker, and off of the main thread.
+* [danfojs](https://github.com/javascriptdata/danfojs) - powerful javascript data analysis toolkit
 
 
 #### CSS
